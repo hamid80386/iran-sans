@@ -1,0 +1,17 @@
+/* BEGIN Bold */
+@font-face {
+	font-family: 'IranianSansBold';
+	src: url('fonts/IranianSansBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+/* END Bold */
+/* BEGIN Regular */
+@font-face {
+	font-family: 'IranianSans';
+	src: url('fonts/IranianSansRegular.ttf') format('truetype')و
+		 url('yekan.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+/* END Regular */
