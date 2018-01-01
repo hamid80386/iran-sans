@@ -10,7 +10,7 @@
 @font-face {
 	font-family: 'IranianSans';
 	src: url('fonts/IranianSansRegular.ttf') format('truetype'),
-		 url('yekan.woff') format('woff');
+		 url('fonts/IRANSans-web.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
