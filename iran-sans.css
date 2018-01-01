@@ -9,7 +9,7 @@
 /* BEGIN Regular */
 @font-face {
 	font-family: 'IranianSans';
-	src: url('fonts/IranianSansRegular.ttf') format('truetype')و
+	src: url('fonts/IranianSansRegular.ttf') format('truetype'),
 		 url('yekan.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
